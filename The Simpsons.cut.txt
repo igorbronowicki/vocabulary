@@ -1,0 +1,331 @@
+﻿--------- The Simpsons 19x01 - He Loves to Fly and He D'ohs
+hoodlum 
+penny = cent 
+arouse 
+refuse, reject 
+extractor 
+premise, premiss 
+applaud = clap (plaudit, applause, clapping)
+yawn 
+shrink 
+therapist 
+counsel, advise, consult
+counselor 
+insist 
+relish (sauce) (garnish) (appetizer)
+behold 
+average 
+weep, blubber, cry, sob, wail, whimper
+alley 
+confident 
+urine 
+stat, immediately
+CEO = Chief Executive Officer
+truck 
+pepper 
+delight 
+frank, candid
+fudge, deceit, deception
+capability, capacity
+cliff 
+bub = bubby, teat, bosom, breast, boob, bubby
+FAA = Federal Aviation Agency
+retire 
+elevation, height
+income 
+exclamation, mark of exclamation
+--------- The Simpsons 19x02 - Homer of Seville
+brunch 
+griddle 
+slay, kill
+slayer, killer, assassin
+buffet 
+haricot, bean
+vert 
+heirloom 
+loom 
+heir 
+cater, provide, service
+catering 
+classy 
+class 
+gravy 
+slather, smear
+corpse, cadaver, dead body
+mahogany 
+casket 
+quiche 
+cease, stop
+pall 
+mild 
+sprain, wrench
+ingest, swallow, gulp
+vertebra 
+fascinate 
+fascinating 
+lodge 
+diaphragm 
+uterus 
+alleviate 
+lessen 
+streak 
+streaked 
+luster = lustre
+nip 
+morgue, mortuary
+contribute 
+praise 
+entourage, escort
+flirt 
+yoko 
+deluxe 
+groupie 
+acquire, get
+twilight, dusk
+belong 
+former 
+disgruntle, annoy, vex, anger
+lockdown 
+gargoyle 
+sharpshooter, sniper
+inflatable 
+decoy, lure, bait
+decay 
+threat, danger
+threaten, menace 
+chandelier 
+foil 
+chop 
+conductor 
+dart 
+addict 
+--------- The Simpsons 19x03 - Midnight Towboy
+clingy, sticky
+cling 
+spill 
+eggshell 
+ivory 
+infant, child, baby
+diner 
+crotch, perineum
+tow 
+impound, confiscate, seize
+vast 
+invoke 
+frustrate, disappoint
+lasso 
+cattle 
+miserable, sorry, unhappy
+jockey, operator
+silhouette 
+haunt 
+turf 
+shove 
+allude, mention
+handicap 
+cab 
+nurture 
+veto = forbid = prohibit
+reinforce 
+allow = permit 
+permission 
+actualize 
+brake 
+hover 
+domain 
+dough 
+dispute
+sense 
+sensibility 
+sensitiveness 
+sensitive 
+insensitive 
+bully 
+winch 
+mayor 
+major 
+comprehend, understand
+comprehensible 
+comprehensibility 
+greed 
+greedy 
+braid, weave, plait
+regulate = control = govern 
+luggage = baggage 
+avast 
+ye = you = ya
+hilarious, gay, merry
+medieval 
+swear 
+plateau 
+determine, decide, resolve, solve
+--------- The Simpsons 19x04 - I Don't Wanna Know Why the Caged Bird Sings
+deposit 
+insure, ensure
+receive = acquire = get 
+fair 
+coffin, grave
+conduct 
+mock, pretended
+sober 
+gawk 
+scam 
+darn, damn, cursed
+queue = line 
+although 
+transaction 
+unfit 
+fit 
+polish, luster, shine
+remain 
+above all 
+stake 
+dye 
+sting 
+surrender 
+surround 
+transition 
+owe 
+tavern, snack bar, lunchroom
+excuse 
+frisk 
+keister, keester
+needy 
+penniless 
+bug-eyed 
+amusement 
+diversion 
+entertainment 
+pastime, hobby
+caricature, cartoon, parody, mimicry, travesty
+harsh, severe, cruel, tough, rude
+filament (fibre = fiber)
+sturdy strong, stout
+urge 
+outlaw 
+crossbow, arbalest, cross-bow
+elk 
+davenport, couch, sofa
+cooker = stove = range 
+crook, bend, curve
+scorch, burn
+stool 
+jolt, shake
+goo 
+boil 
+wart 
+penitentiary 
+mental 
+allure, lure, entice, decoy, inveigle
+slug, blow, beat, thrash = thresh
+slugger 
+pole 
+disgrace, shame, dishonour = dishonor, discredit
+convict 
+escapee, fugitive, runaway, jail-breaker
+tiptoe 
+plaster 
+terrify, frighten, scare
+carnival 
+unselfish 
+carve 
+though 
+--------- The Simpsons 19x05 - Treehouse of Horror XVIII
+gory, bloody
+fair 
+burnt 
+caramel 
+caramel, caramelize 
+shed 
+butane 
+glow, shine, blaze
+unearthly 
+testicle 
+vulnerable 
+vulnerability 
+shore, support
+ray 
+applicator 
+sergeant 
+insufficient, scanty 
+sufficient 
+phonic, acoustic, vocal
+dealer 
+dissect, anatomize
+sect 
+dupe, duplicate
+sage 
+uranium 
+weld 
+tighten 
+wrench 
+wench 
+loyalty 
+pest 
+observant 
+observe 
+missile, rocket , jet
+facility 
+tentacle 
+elsewhere 
+harbor = harbour (haven, port),  (refuge, haven, shelter)
+decent 
+apt 
+biped 
+bipedal (two-legged, two-footed)
+troop 
+hop (skip, leap) 
+vivisection 
+vivisect 
+eliminate (remove, expel) 
+gully 
+gull 
+preposterous (absurd, perverse, foolish, nonsensial)
+perch 
+derogatory = derogative 
+skank 
+pimple, zit (acne)
+wheelbarrow 
+barrow 
+borrow 
+lasagna 
+tummy 
+complaint (plaint)
+elaborate 
+elaboratly 
+choreographer (ballet-master)
+choreograph 
+chore 
+misbehavior 
+behavior = behaviour 
+weirdo 
+omen (presage, portent)
+concern (business, firm)
+slipper 
+flipper 
+slippery 
+slip 
+slope 
+blitz = blitzkrieg 
+bop (bebop)
+mischief 
+merriment (fun, mirth)
+assistance (help)
+assistant 
+prank (trick, freak)
+peek (peep, keek, glance)
+rife (customary, usual)
+gluttony 
+glutton 
+guttler 
+gormandizer 
+gourmet 
+junk 
+vintage 
+vin = wine 
+accomplishment (achievement, progress, attainment)
+sloth (inactivity, laziness) 
+pray = beg = entreat
+conclude (finish)
+include = comprise = contain = involve = comprehend
+embrace (hug)
