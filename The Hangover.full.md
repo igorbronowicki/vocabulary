@@ -1,7 +1,11 @@
 ﻿**inseam** = the seam in a pair of pants from the crotch to the bottom of the leg, or the length of this
+
 **steel trap** = капкан
+
 **mellow** = а) спокойный, смягчившийся с годами (о человеке, характере)
+
 **seep** = просачиваться; проникать, протекать
+
 **keynote** = делать основной доклад (на съезде, конференции)
 **dry hump** = dry fuck = петтинг
 **bellhop** = bellboy = коридорный, посыльный (в гостинице)
