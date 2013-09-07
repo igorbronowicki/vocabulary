@@ -130,24 +130,32 @@ mooch = 2) воровать, красть Syn: steal , pilfer
 cress = кресс-салат
 chop-chop = быстро-быстро
 -------SP S09E04 - Best Friends Forever
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+single-handedly = без посторонней помощи; самостоятельно; один на один
+thee = 1) личн.; косвенный падеж от thou тебе, тебя, тобой
+battlefield = а) поле сражения, поле боя
+fate = 1) судьба; доля, жребий, фатум Syn: destiny , fortune , lot , portion , doom
+revive = а) оживать, приходить в себя (после обморока)
+meditative = созерцательный; задумчивый Syn: contemplative , thoughtful
+vegetative = 2) прозябающий; живущий растительной жизнью
+morrow = 1) завтра, завтрашний день; следующий день We must wait until the morrow. — Мы должны ждать до завтра. Syn: tomorrow 2.
+vie = конкурировать, соперничать, соревноваться to vie with smb. — соперничать с кем-л to vie for smth. — соперничать за что-л. to vie in smth. — соперничать в чём-л. She had to vie for the prize against very strong competition. — Она должна была бороться за главный приз при очень сильной конкуренции. Syn: compete
+spearman = копьеносец Syn: lance-bearer
+ripper = 4) потрошитель (убийца, распарывающий тела своих жертв)
+cavalry = кавалерия, конница to commit cavalry — вводить в бой конницу - heavy cavalry - light cavalry Syn: horse 1. 2), mounted troops
+camcorder = видеокамера
 -------SP S09E05 - The Losing Edge
+
+
+
+
+
+
+
+
+
+
+
+
 -------SP S09E06 - The Death of Eric Cartman
 -------SP S09E07 - Erection Day
 -------SP S09E08 - Two Days Before the Day After Tomorrow
