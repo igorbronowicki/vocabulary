@@ -246,7 +246,18 @@ gobbler = индюк Syn: turkey cock
 ramming = 2) трамбование; утрамбовка, уплотнение
 crutch = 2) костыль
 -------SP S09E08 – Two Days Before the Day After Tomorrow
-// TODO:
+recreation area = зона отдыха
+glove box = ящик для мелких вещей, бардачок (в автомобиле)
+fatality = 2) беда, бедствие; злоключение; несчастье; смерть (от несчастного случая и пр.) to cause fatalities — вызывать смерть highway fatalities , motorway fatalities , traffic fatalities — транспортные происшествия со смертельным исходом Syn: calamity , misfortune
+WMD = weapons of mass destruction оружие массового уничтожения
+FEMA = от Federal Emergency Management Agency Федеральное агентство по чрезвычайным ситуациям (США)
+rooftop = крыша, поверхность крыши
+cliche = штамп, клише, избитая фраза
+SUV = внедорожник (полноприводный автомобиль повышенной проходимости, обычно предназначенный для активного отдыха)
+egg = 2) подстрекать (к чему-л.) ; провоцировать (на что-л.) Their suspicions egged them to cruelty. — Подозрения толкнули их на жестокость. Syn: incite , encourage , urge , provoke , tempt
+tidal wave = 1) приливная волна 2) взрыв общего чувства; волна увлечения
+indoors = внутри дома, в помещении to stay / keep indoors — оставаться дома, не выходить to go indoors — идти в дом
+hypothermia = гипотермия (1. пониженная температура тела 2. искусственное понижение температуры тела с лечебными целями)
 -------SP S09E09 – Marjorine
 // TODO:
 -------SP S09E10 – Follow That Egg!
