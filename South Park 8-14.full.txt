@@ -206,7 +206,30 @@ innings = подача мяча (в крикете, бейсболе)
 disqualify = а) дисквалифицировать, лишать права A former Tour de France champion is disqualified from this year's race. — Бывший чемпион «Тур де Франс» лишён права участия в гонке в этом году.
 bell = 1) колокол; колокольчик; бубенчик; колокол, отсчитывающий время (на башенных часах) church bell — церковный колокол
 -------SP S09E06 – The Death of Eric Cartman
-// TODO:
+KFC = Kentucky Fried Chicken
+colonel = полковник
+groceries = продукты В американском словоупотреблении: продукты, купленные в продовольственном магазине [grocery store] любого типа
+acknowledge = 3) узнавать, опознавать; признавать He didn't even acknowledge me as we passed. — Он прошёл мимо и даже не поздоровался.
+glassy = б) остекленевший, безжизненный, стеклянный (о взгляде, глазах) Syn: vitreous
+rupture = 2) прорыв; пролом Syn: breach 1., break I 1. 3) а) разрыв; перелом rupture of a bloodvessel — разрыв кровеносного сосуда б) грыжа
+closure = закрывать дискуссию, прения, обсуждение
+rat race = бешеная погоня за богатством, успехом; ожесточённая конкуренция
+grant = 1) дарить, жаловать, даровать; предоставлять Syn: give , confer 2) оказывать материальную поддержку; давать дотацию, субсидию The government granted a pension to her. — Государство выплачивает ей пенсию.
+no-good = дрянной, никчёмный, никудышный
+bliss = блаженство, счастье Syn: happiness
+preacher = 1) проповедник itinerant preacher — проповедник, объезжающий свой округ fervid preacher — страстный проповедник Syn: minister
+atone = 1) заглаживать, искупать (грех, вину)
+slate = а) список, реестр
+dementia = 1) слабоумие Syn: imbecility , weak-mindedness , amentia 2) сумасшествие, помешательство
+aggravate = 1) отягчать, усугублять; ухудшать; обострять, углублять, усиливать Falsehood will only aggravate your guilt. — Лжесвидетельство лишь усугубит твою вину. Syn: redouble , intensify 2) усиливаться, ухудшаться, обостряться (о болезни)
+headway = 1) движение вперёд to gain / make headway against — двигаться в противоположном направлении Syn: advance 2) прогресс, развитие; успех to make headway — делать успехи; преуспевать Syn: progress , advance
+psychotic = психотический
+psychosis = психоз
+delusion = 2) мания; галлюцинация; бред
+impend = 1) нависать 2) нависать, надвигаться (об опасности) The storm was impending. — Надвигалась гроза.
+unfold = б) развиваться, раскрываться, обрастать подробностями as the story unfolds — по мере развития сюжета
+psychic = 2) обладающий сверхъестественными способностями (телепатией, телекинезом и пр.) ; экстрасенсорный, ясновидящий
+fulfil = 3) удовлетворять (требованиям, условиям) to fulfil oneself — достичь совершенства (в пределах своих возможностей) , наиболее полно выразить себя 1) выполнять; делать, исполнять, осуществлять, совершать to fulfil the quota — выполнять норму to fulfil a promise — выполнять обещание Syn: perform , implement , carry out
 -------SP S09E07 – Erection Day
 // TODO:
 -------SP S09E08 – Two Days Before the Day After Tomorrow
