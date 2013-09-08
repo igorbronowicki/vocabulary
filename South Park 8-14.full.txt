@@ -226,6 +226,7 @@ headway = 1) движение вперёд to gain / make headway against — д
 psychotic = психотический
 psychosis = психоз
 delusion = 2) мания; галлюцинация; бред
+illusion = 1) иллюзия, обман чувств; мираж optical illusion — оптический обман, обман зрения under an illusion — под действием иллюзии to create / produce an illusion — создавать иллюзию to cherish / harbor an illusion — питать иллюзии to dispel an illusion — рассеивать иллюзию to indulge in illusions — предаваться иллюзиям to have no illusions about smb. — не обольщаться на чей-л. счёт It's an illusion to think that... — Странно обольщаться по поводу... Syn: delusion , deception , fancy 1., apparition , phantom
 impend = 1) нависать 2) нависать, надвигаться (об опасности) The storm was impending. — Надвигалась гроза.
 unfold = б) развиваться, раскрываться, обрастать подробностями as the story unfolds — по мере развития сюжета
 psychic = 2) обладающий сверхъестественными способностями (телепатией, телекинезом и пр.) ; экстрасенсорный, ясновидящий
