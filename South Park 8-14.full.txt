@@ -316,7 +316,7 @@ classified = 2) секретный, тайный Syn: secret 2., confidential 2.
 cruiser = 4) самолёт или космический корабль (в научной фантастике)
 roam = 2. скитание, странствование; прогулка, поездка Syn: wandering , ramble
 cult = 1) поклонение, почитание Syn: worship 2) вера, вероисповедание, исповедание Syn: denomination , creed , religion
-cap = 9) завершать; венчать To cap the misery, his only son died in infancy. — В довершение всех несчастий его единственный сын умер во младенчестве.
+cap = to shoot someone; 9) завершать; венчать To cap the misery, his only son died in infancy. — В довершение всех несчастий его единственный сын умер во младенчестве.
 -------SP S09E13 – Free Willzyx
 // TODO:
 -------SP S09E14 – Bloody Mary
