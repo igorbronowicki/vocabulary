@@ -318,7 +318,11 @@ roam = 2. скитание, странствование; прогулка, по
 cult = 1) поклонение, почитание Syn: worship 2) вера, вероисповедание, исповедание Syn: denomination , creed , religion
 cap = to shoot someone; 9) завершать; венчать To cap the misery, his only son died in infancy. — В довершение всех несчастий его единственный сын умер во младенчестве.
 -------SP S09E13 – Free Willzyx
-// TODO:
+orca = косатка Syn: killer 3), grampus 1)
+stingray = электрический скат
+flipper = 1) плавник, плавательная перепонка Syn: fin 2) (flippers) ласты Syn: fin
+nebula = 1) туманность Andromeda nebula — туманность Андромеды 2) помутнение роговой оболочки (глаза) 3) туман, дымка, мгла
+ramp = а) наклонная плоскость, уклон, уступ Syn: slope 1. б) пандус
 -------SP S09E14 – Bloody Mary
 // TODO:
 -------SP S11E10 - Imaginationland Episode I
