@@ -304,7 +304,19 @@ jamb = 2) подпорка, упор Syn: support , prop
 reckoning = расплата; счет, вычисление, расчет; day of reckoning 1) срок расплаты 2) час расплаты, судный день
 reckon = а) рассчитываться, расплачиваться с (кем-л.) We must reckon with anyone we are in debt to. — Надо рассчитаться со всеми, кому мы должны. I'll reckon with that boy when he gets home! — Ох, и задам я этому парню, когда он придёт домой!
 -------SP S09E12 – Trapped in the Closet
-// TODO:
+vague = 1) неопределённый, неясный, смутный; неуловимый vague ideas — нечёткие идеи
+self-help = а) решение собственных проблем своими силами, без посторонней помощи a self-help book on overcoming shyness — книга практических советов о том, как преодолеть застенчивость
+suicidal = 1) самоубийственный; суицидный suicidal attempt — попытка самоубийства
+auditing = audit = 1) аудит; проверка, ревизия бухгалтерских книг, документов и отчётности tax audit — налоговая проверка to carry out / conduct an audit — провести аудит, ревизию
+thus = 2) таким образом, итак, соответственно Thus we have man modifying nature, and nature modifying man. — Таким образом, у нас есть человек, изменяющий природу, и природа, изменяющая человека.
+prophet = б) пророк Syn: soothsayer , foreteller , predictor
+onlooker = зритель, наблюдатель; зевака Syn: spectator The onlooker sees most of the game. — Со стороны виднее.
+doctrine = 1) теория, доктрина; учение; теоретические взгляды availability doctrine ; — доктрина доступности кредита doctrine of gravitation — теория гравитации Syn: teaching , tenet 2) вероучение; догма, догмат Syn: belief , dogma , doxy I
+classified = 2) секретный, тайный Syn: secret 2., confidential 2. = classified ad
+cruiser = 4) самолёт или космический корабль (в научной фантастике)
+roam = 2. скитание, странствование; прогулка, поездка Syn: wandering , ramble
+cult = 1) поклонение, почитание Syn: worship 2) вера, вероисповедание, исповедание Syn: denomination , creed , religion
+cap = 9) завершать; венчать To cap the misery, his only son died in infancy. — В довершение всех несчастий его единственный сын умер во младенчестве.
 -------SP S09E13 – Free Willzyx
 // TODO:
 -------SP S09E14 – Bloody Mary
