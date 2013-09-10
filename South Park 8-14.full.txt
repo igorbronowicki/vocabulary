@@ -324,7 +324,17 @@ flipper = 1) плавник, плавательная перепонка Syn: fi
 nebula = 1) туманность Andromeda nebula — туманность Андромеды 2) помутнение роговой оболочки (глаза) 3) туман, дымка, мгла
 ramp = а) наклонная плоскость, уклон, уступ Syn: slope 1. б) пандус
 -------SP S09E14 – Bloody Mary
-// TODO:
+margarita = a cocktail made with tequila and citrus fruit juice
+buzz = а) кайф, состояние алкогольного или наркотического опьянения Some players get buzz from the computer games, one can say they become addicted. — Некоторые любители компьютерных игр ловят от этого такой кайф, что можно говорить об их компьютерной зависимости. Syn: kick , thrill б) состояние перевозбуждения
+sobriety = 1) трезвость Syn: soberness
+for starters = для начала; For starters. I must warn you it's not going to be easy — Прежде всего я должен предупредить вас, что это будет нелегко For starters, try to do your physical exercise each morning — Для начала постарайтесь каждое утро делать физическую зарядку
+DUI = от driving under the influence управление автомобилем под воздействием алкоголя или наркотических средств
+DWI = от Driving While Intoxicated вождение в нетрезвом состоянии
+AA = от Alcoholics Anonymous АА, "Анонимные алкоголики" (организация по борьбе с алкоголизмом)
+flock = flock together стекаться; приходить толпой, собираться толпами to flock after smb. — толпой следовать за кем-л.
+hypochondriac = 1. ипохондрик 2. страдающий ипохондрией
+intervention = вмешательство - military intervention - government intervention Syn: interference , meddling
+bartender = бармен Syn: barman
 -------SP S11E10 - Imaginationland Episode I
 leprechaun = эльф, который всегда носит кошелёк с шиллингом (в ирландском фольклоре) Syn: elf
 surveillance = надзор, наблюдение (за подозреваемым в чём-л.) electronic surveillance — электронное наблюдение lawful surveillance — законное наблюдение wiretap surveillance — наблюдение с помощью подслушивающих устройств under surveillance — под надзором (обычно полиции)
