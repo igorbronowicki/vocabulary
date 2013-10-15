@@ -95,7 +95,7 @@ static
 generous 
 mint 
 vile 
-conceive 
+conceive, understand
 hatch 
 saucy 
 puppet 

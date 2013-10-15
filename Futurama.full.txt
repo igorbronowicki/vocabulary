@@ -96,7 +96,7 @@ static - 1) атмосферные помехи
 generous - 2) щедрый generous with money — щедрый на деньги
 mint - 1) мята
 vile - 3) мерзкий, ужасный It is scarcely possible to conceive a viler day than this. — Едва ли можно представить более мерзкий день, чем этот.
-conceive - 5) (conceive of) представлять, воображать
+conceive - 5) (conceive of) представлять, воображать Syn: understand
 hatch - а) = hatch out вылупляться из яйца
 saucy - 2) грубоватый, фривольный; пикантный
 puppet - б) марионетка
