@@ -232,9 +232,9 @@ due
 sue 
 savage 
 mistreat = maltreat 
-concur 
+concur, accede, acquiesce, agree, assent, consent
 putrid 
 cripple, lame, disable
-shortage 
+shortage, lack, deficit
 Gee
 heritage (inheritance)
