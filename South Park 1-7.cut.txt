@@ -169,7 +169,7 @@ denominate, name, designate
 denomination, confession
 mariachi 
 fez 
-ruckus, noise
+ruckus, noise, uproar
 ;----- SP S01E10 – Damien
 denote, mean, signify, denominate
 domination, sway, authority, dominion
@@ -414,41 +414,40 @@ shingle
 snuggle 
 ;----- SP S02E13 – Cow Days
 vascular 
-rig 
-just 
+rig, equipment, tackle, cheat
+just, fair
 dept
 ridge 
-reinstate 
-decree 
-ruckus 
+reinstate, recover
+decree, edict
 ;----- SP S02E14 – Chef Aid
-ample 
-deliberate 
+ample, abundant
+deliberate, intentional, ponder
 conjugate
-emancipation 
-proclamation 
-acquit 
-lavish 
+emancipation, release, liberation
+proclamation, declaration
+acquit, justify
+lavish, generous
 haggis 
 threads 
-retain 
+retain, maintain
 romp 
-assail 
+assail, assault
 pecan 
 schizophrenic 
-loin 
+loin, fillet
 pompadour  
-ween 
+ween, think , suppose
 ;----- SP S02E15 – Spooky Fish
 ditch
-rind 
-squash
+rind, peel , skin
+squash, pumpkin
 lantern 
-pall 
-hash 
+pall, bother, veil, shroud
+hash, medley
 imposter 
 zap 
-bozo 
+bozo, dolt
 ;----- SP S02E16 – Merry Christmas Charlie Manson
 senile 
 cinnamon 
