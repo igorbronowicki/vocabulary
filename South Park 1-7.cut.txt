@@ -530,17 +530,17 @@ vanquish
 typhoon 
 ;----- SP S03E04 – Jakovasaurs
 eel 
-voice box 
-fuzzy 
-boong 
-blimey 
+voice box, larynx, throat
+fuzzy, downy , fluffy
+boong, aborigine
+Blimey!
 inseminate 
-root 
+root, support
 tackle 
-gestation 
+gestation, pregnancy
 litter 
-buzzer 
-antic 
+buzzer, hooter, beep
+antic, buffoonery
 ;----- SP S03E05 – Tweek vs. Craig
 dismiss 
 court 
