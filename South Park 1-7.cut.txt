@@ -542,16 +542,16 @@ litter
 buzzer, hooter, beep
 antic, buffoonery
 ;----- SP S03E05 – Tweek vs. Craig
-dismiss 
-court 
+dismiss, disband
+court, care, yard, trial
 tetherball 
-beware 
-fishy 
+beware, shun
+fishy, suspicious, dubious
 sander 
 peroxide
-postpone
-martial 
-hooter 
+postpone, adjourn , defer , delay
+martial, warlike, military
+hooter, buzzer, beep
 ;----- SP S03E06 – Sexual Harassment Panda
 will(e)y 
 choo-choo 
