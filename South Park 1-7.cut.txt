@@ -472,31 +472,30 @@ squish, slosh
 despicable, contemptible, vile
 bland, soft, mild, gentle, tender
 ;----- SP S02E18 – Prehistoric Ice Man
-prehistoric 
-croc 
-mammoth 
-specimen 
-autopsy 
-be my guest 
-EKG
-adapt 
-gent 
+prehistoric, prehistorical
+croc, crocodile, alligator
+mammoth, enormous, huge, tremendous, jumbo
+specimen, sample, pattern
+autopsy, dissection, necropsy
+Be my guest!
+EKG, ECG
+adapt, fit
+gent, gentleman
 habitat 
-lucrative 
+lucrative, profitable
 grizzly 
 rattlesnake 
-brow 
-dilate 
-pupil 
-prey 
+brow, eyebrow
+pupil, disciple, apprentice
+prey, victim, hunt
 ;----- SP S03E01 – Rainforest, Schmainforest
 rainforest 
-canopy 
-foliage 
-assert 
-supreme 
+canopy, awning, shed, tent, tilt, sunshade
+foliage, leafage
+assert, defend, claim
+supreme, superior, paramount
 tostada 
-fascist 
+fascist, Nazi
 quicksand 
 ;----- SP S03E02 – Spontaneous Combustion
 combustion 
@@ -516,17 +515,15 @@ glacier
 hack 
 ;----- SP S03E03 – The Succubus
 succubus 
-optometrist
-dilate 
+optometrist, optician
+dilate, expand, extend, widen
 gumbo 
-antic
-hooker 
-stigma 
+hooker, whore, slut, prostitute
+stigma, disgrace, shame
 cubicle 
 stagnant 
 liposuction
-fulfil 
-vanquish 
+vanquish, win, overcome, conquer, defeat
 typhoon 
 ;----- SP S03E04 – Jakovasaurs
 eel 
