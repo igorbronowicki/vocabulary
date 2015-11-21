@@ -449,28 +449,28 @@ imposter
 zap 
 bozo, dolt
 ;----- SP S02E16 – Merry Christmas Charlie Manson
-senile 
+senile, old
 cinnamon 
-bummer 
+bummer, frustration, disappointment
 hot-wire 
-seclude 
+seclude, isolate, insulate
 grinch 
 coo 
-reconcile 
+reconcile, adjust
 ;----- SP S02E17 – Gnomes
-vice 
-tike 
-voluminous 
-bulldoze 
-bantam 
-endeavor 
+vice, vise
+tike, tyke, tot
+voluminous, bulky
+bulldoze, blackmail, intimidate
+bantam, rooster
+endeavor, attempt, try
 dew 
 juniper 
-relevance 
-yum 
-squish 
-despicable 
-bland 
+relevance, relevancy
+yum, yum-yum
+squish, slosh
+despicable, contemptible, vile
+bland, soft, mild, gentle, tender
 ;----- SP S02E18 – Prehistoric Ice Man
 prehistoric 
 croc 
