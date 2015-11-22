@@ -498,21 +498,21 @@ tostada
 fascist, Nazi
 quicksand 
 ;----- SP S03E02 – Spontaneous Combustion
-combustion 
+combustion, ignition
 contagious 
-skit 
-re(-)enact 
-disciple
-expel 
-smite 
-squeaker
+skit, sketch
+re-enact
+disciple, pupil, follower
+expel, exclude, banish, eject, evict, deport
+smite, hit, punish
+squeaker, informer
 nominee 
-unify 
-phon(e)y
-escalate 
-deplete 
+unify, unite
+phony, counterfeit, sham, bogus, spurious
+escalate
+deplete, exhaust
 glacier
-hack 
+hack, chop, hoe
 ;----- SP S03E03 – The Succubus
 succubus 
 optometrist, optician
