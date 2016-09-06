@@ -387,31 +387,30 @@ knowingly
 ;----- SP S02E11 – Roger Ebert Should Lay Off the Fatty Foods
 field trip 
 constellation
-siege 
-impede 
-marrow 
+siege, besiegement
+impede, hinder, obstruct
+marrow, brain
 Big Dipper 
 crusader 
-thrift 
-hippo
-mellow 
-pain killer 
+thrift, economy
+hippo, hippopotamus
+pain killer, analgetic
 haiku  
 syllable 
-backdrop
-inopportune 
+backdrop, backcloth
+inopportune, improper, inappropriate, unsuitable, untimely
 ;----- SP S02E12 – Clubhouses
-impermeable 
-hoe 
-blasphemy
-sterile 
-adverse 
+impermeable, impenetrable, impervious
+hoe, mattock
+blasphemy, profanity, oath, swear
+sterile, aseptic
+adverse, hostile, harmful, unfavorable
 perk 
-skylark 
-lark 
-valid 
-shingle 
-snuggle 
+skylark, lark, frolic
+lark, skylark, frolic
+valid, weighty, true
+shingle, pebble
+snuggle, cuddle, cose
 ;----- SP S02E13 – Cow Days
 vascular 
 rig, equipment, tackle, cheat
