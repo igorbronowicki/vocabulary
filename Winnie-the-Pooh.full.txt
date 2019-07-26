@@ -32,3 +32,4 @@ halt - стой! стоп! (команда)
 unfavo(u)rable - 1) неблагоприятный, невыгодный unfavorable moment — неблагоприятный момент on unfavorable terms — на невыгодных условиях Syn: disadvantageous
 unprecedented - беспрецедентный, беспримерный, небывалый
 pat - похлопывать; поглаживать; шлёпать to pat a dog — погладить собаку
+
